@@ -1,6 +1,6 @@
 # <a href="https://granola.team/" target="_blank"><img src="https://granola.team/images/GranolaHorizontalDarkBg.png" width="350"></a>
 
-The Granola Team are a tribe of like-minded software consultants. We are experts in:
+The Granola Team are a tribe of like-minded software professionals. We are experts in:
 
 - [Software team leadership](https://robinbb.com/about/)
 - [Blockchain technology](https://github.com/search?q=repo%3AGranola-Team%2Fmina-indexer+repo%3AGranola-Team%2Fmina-block-explorer+&type=repositories)
